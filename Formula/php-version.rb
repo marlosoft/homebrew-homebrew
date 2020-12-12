@@ -1,8 +1,8 @@
 class PhpVersion < Formula
   desc "Simple shell script to switch Homebrew's PHP version"
   homepage "https://github.com/marlosoft/php-version/"
-  url "https://github.com/marlosoft/php-version/archive/0.1.tar.gz"
-  sha256 "fa527d87e593e29a9677433b819d615ffc6bb0b94e5bf5a0a817f91d7d030450"
+  url "https://github.com/marlosoft/php-version/archive/0.2.tar.gz"
+  sha256 "e93c71a04c29e6bd8dfd0f15caa11fe4fda2fb5e016fbec5e6f109d7ff39aca4"
   license "MIT"
   depends_on "httpd"
 
